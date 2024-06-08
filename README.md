@@ -338,4 +338,4 @@ Welcome to the ML System Design Case Studies Repository! This repository is a co
 |     309 | Dropbox              | Tech                                      | Scaling ML with Michelangelo                                  | [Scaling Machine Learning at Uber with Michelangelo](https://eng.uber.com/scaling-michelangelo/)                                                                                                                                                                                   |   2019 |
 
 
-> For more information, visit [Evidently AI - ML System Design](https://www.evidentlyai.com/ml-system-design).
+> For more information, visit [Evidently AI - ML System Design](https://www.evidentlyai.com/ml-system-design) and [ML Systems Design](https://huyenchip.com/machine-learning-systems-design/case-studies.html)
