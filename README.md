@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the ML System Design Case Studies Repository! This repository is a comprehensive collection of 300 case studies from over 80 leading companies, showcasing practical applications and insights into machine learning (ML) system design. Companies like Netflix, Airbnb, and Doordash have shared their experiences, providing a valuable resource for anyone interested in learning how ML is used to improve products and processes.
+Welcome to the ML System Design Case Studies Repository! This repository is a comprehensive collection of 300+ case studies from over 80 leading companies, showcasing practical applications and insights into machine learning (ML) system design. Companies like Netflix, Airbnb, and Doordash have shared their experiences, providing a valuable resource for anyone interested in learning how ML is used to improve products and processes.
 
 ### Features
 
