@@ -388,3 +388,7 @@ We are continuously working to enhance this resource! Here are some exciting fea
 
 
 > For more information, visit [Evidently AI - ML System Design](https://www.evidentlyai.com/ml-system-design) and [ML Systems Design](https://huyenchip.com/machine-learning-systems-design/case-studies.html)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies&type=Date)](https://www.star-history.com/#Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies&Date)
