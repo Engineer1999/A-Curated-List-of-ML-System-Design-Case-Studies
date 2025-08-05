@@ -8,7 +8,7 @@ Welcome to the ML System Design Case Studies Repository! This repository is a co
 
 ## 🌐 **Featured Resource: <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a>**
 
-> **Supercharge your Rresearch journey with <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a> — the all-in-one platform for all your research needs.**
+> **Supercharge your Research journey with <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a> — the all-in-one platform for all your research needs.**
 
 - 🔍 **Search & Explore**: Instantly find trending ML papers, code, and datasets.
 - 🗂️ **Personalized Libraries**: Save, organize, and annotate your favorite research.
